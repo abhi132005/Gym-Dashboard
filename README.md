@@ -1,1 +1,1 @@
-# Gym-Dashboard
+# Gym Management Dashboard
